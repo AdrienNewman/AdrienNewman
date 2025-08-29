@@ -1,7 +1,7 @@
-# Salut 👋
-
+Bonjour ! 
 Je suis un étudiant en informatique passionné par les nouvelles technologies, Linux et la découverte en général.  
 J’aime explorer différents environnements et apprendre constamment pour enrichir mes compétences techniques.
+Je suis à la recherche d'un stage de TSSR dans l'hérault pour la période de 03 Novembre au 24 Décembre 2025.
 
 ---
 
