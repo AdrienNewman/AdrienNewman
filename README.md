@@ -5,11 +5,9 @@
 ![LXC](https://img.shields.io/badge/container-LXC-orange.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-Bonjour ! 
-Je suis un étudiant en informatique passionné par les nouvelles technologies, Linux et la découverte en général.  
-J’aime explorer différents environnements et apprendre constamment pour enrichir mes compétences techniques.
-Je suis à la recherche d'un stage de TSSR dans l'hérault pour la période de 03 Novembre au 24 Décembre 2025.
-
+Hello World ! 
+Tout juste reconverti dans l'informatique, je mange les 0 et les 1 à pleines dents ! 
+Hate de partager de nouveaux projets 
 ---
 
 ## 🛠️ Compétences
