@@ -1,3 +1,10 @@
+# 📝 Assistant de Documentation TSSR
+
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Flask](https://img.shields.io/badge/flask-3.0.0-green.svg)
+![LXC](https://img.shields.io/badge/container-LXC-orange.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 Bonjour ! 
 Je suis un étudiant en informatique passionné par les nouvelles technologies, Linux et la découverte en général.  
 J’aime explorer différents environnements et apprendre constamment pour enrichir mes compétences techniques.
